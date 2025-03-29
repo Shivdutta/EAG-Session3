@@ -1,0 +1,5 @@
+fastapi[all]
+python-dotenv
+google-generativeai
+yfinance
+pandas
